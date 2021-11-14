@@ -13,6 +13,7 @@
   position: absolute;
   padding: 2px 15px;
   text-align: start;
+  z-index: 1;
 }
 
 .none {
@@ -49,11 +50,12 @@
   left:0;
   bottom: 0;
   width: 100%;
-  z-index: -1;
+  z-index: 0;
 }
 
 .footer-element {
   float: right;
+  cursor: pointer;
   max-height: 2em;
   max-width: 2em;
 }

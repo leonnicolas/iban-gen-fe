@@ -296,7 +296,7 @@ function Footer() {
     <div className="footer">
       <a
         className="m-3 footer-element"
-        href="https://github.com/leonncolas/iban-gen-fe"
+        href="https://github.com/leonnicolas/iban-gen-fe"
         rel="nofollow"
         title="GitHub"
       >
