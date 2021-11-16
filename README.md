@@ -2,6 +2,8 @@
 
 The react frontend for [iban-gen](https://github.com/leonnicolas/iban-gen).
 
+This app is hosted on [iban-gen.klump.solutions](https://iban-gen.klump.solutions).
+
 ## Available Scripts
 
 In the project directory, you can run:
