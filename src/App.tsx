@@ -13,7 +13,7 @@ import {
 
 import { IBANGeneration } from "./generated/models/IBANGeneration";
 
-OpenAPI.BASE = "https://iban-gen.duckdns.org";
+OpenAPI.BASE = "https://ibans.es.klump.solutions";
 
 const { random, bics } = Service;
 
